@@ -1,33 +1,27 @@
-# hms-safetydetect-demo-android
+# HMS Safetydetect Android Demo
+
+English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-android/blob/master/README_ZH.md)
+
 ## Table of Contents
 
 - [Introduction](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master#introduction)
-- [Installation](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master#installation)
-- [Configuration](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master#configuration)
-- [Supported Environments](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master#supported-environments)
-- [Sample Code](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master#sample-code)
-- [License](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master#license)
+- [Precautions](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master#precautions)
 
 ## Introduction
 
-SafetyDetect Sample provides many sample programs for your reference or usage. The following describes packages of SafetyDetect sample code.
+This project contains SafetyDetect APIs and apps developed based on the SafetyDetect SDK. The project directory is as follows:
+1. [SafetyDetect-SysIntegrity-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-SysIntegrity-Android-Sample): Provides examples of using basic functions of SafetyDetect SysIntegrity.
+2. [SafetyDetect-AppsCheck-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-AppsCheck-Android-Sample): Provides examples of using basic functions of SafetyDetect AppsCheck.
+3. [SafetyDetect-URLCheck-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-URLCheck-Android-Sample): Provides examples of using basic functions of SafetyDetect URLCheck.
+4. [SafetyDetect-UserDetect-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-UserDetect-Android-Sample): Provides examples of using basic functions of SafetyDetect UserDetect.
+5. [SafetyDetect-WifiDetect-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-WifiDetect-Android-Sample): Provides examples of using basic functions of SafetyDetect WifiDetect.
+6. [Safetydetect-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/safetydetect-android-sample): Provides examples of using basic functions of SafetyDetect.
 
-## Installation
 
-Before using SafetyDetect Sample code, check whether java environment and Android Studio has been installed. Decompress the SafetyDetect sample code package.
+## Precautions
 
-## Supported Environments
+The project contains multiple independent projects. After downloading code,
+you can open a project in Android Studio to build your app or add multiple apps to a project.
+You do not have to create a separate project for each app. You can open setting.gradle to select the project to build.
 
-Java 1.7 or a later version is recommended.
 
-## Configuration
-
-You should create an app in AppGallery Connect, and obtain the file of agconnect-services.json and add to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project, and add configuration to build.gradle. https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/SafetyDetectDevelopment
-
-## Sample Code
-
-More API information please visit  https://developer.huawei.com/consumer/en/doc/development/HMS-Examples/SafetyDetectSample
-
-## License
-
-SafetyDetect Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
