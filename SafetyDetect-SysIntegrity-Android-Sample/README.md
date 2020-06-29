@@ -1,13 +1,12 @@
-## SafetyDetect-SysIntegrity-sample
+# SafetyDetect SysIntegrity Sample
+English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-android/blob/master/SafetyDetect-SysIntegrity-Android-Sample/README.md)
 
 
 ## Table of Contents
 
  * [Introduction](#introduction)
- * [Installation](#installation)
- * [Configuration ](#configuration )
+ * [Getting Started](#getting-started)
  * [Supported Environments](#supported-environments)
- * [Sample Code](#sample-code)
  * [License](#license)
 
 
@@ -17,21 +16,13 @@ The following describes packages of SafetyDetect SysIntegrity sample code.
     
 sample:Sample code packages. 
 
-## Installation
-Before using SafetyDetect SysIntegrity Sample code, check whether java environment and Android Studio has been installed. 
-Decompress the SafetyDetect SysIntegrity sample code package.
-
-## Supported Environments
-Java 1.7 or a later version is recommended.
-
-## Configuration 
+## Getting Started 
 You should create an app in AppGallery Connect, and obtain the file of agconnect-services.json and add to the project.
 You should also generate a signing certificate fingerprint and add the certificate file to the project, and add configuration to build.gradle.
 https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/SafetyDetectDevelopment
 
-## Sample Code
-More API information please visit 
-https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/27319309
+## Supported Environments
+Java 1.7 or a later version is recommended.
 
 ##  License
 SafetyDetect SysIntegrity Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
