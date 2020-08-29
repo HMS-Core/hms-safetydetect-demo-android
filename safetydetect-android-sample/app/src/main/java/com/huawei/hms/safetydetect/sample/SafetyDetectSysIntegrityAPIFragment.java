@@ -37,6 +37,9 @@ import com.huawei.hms.support.api.safetydetect.SafetyDetectStatusCodes;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.security.NoSuchAlgorithmException;
+import java.security.SecureRandom;
+
 /**
  * An example of how to use SysIntegrity Service API.
  * Note that you have to configure an AppId for SafetyDetect Service first.
