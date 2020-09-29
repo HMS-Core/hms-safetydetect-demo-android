@@ -47,7 +47,7 @@ import java.security.SecureRandom;
 public class SafetyDetectSysIntegrityAPIFragment extends Fragment implements View.OnClickListener {
     public static final String TAG = SafetyDetectSysIntegrityAPIFragment.class.getSimpleName();
 
-    private static final String APP_ID = "101324691";
+    private static final String APP_ID = "******";
 
     private Button mButton1;
 
