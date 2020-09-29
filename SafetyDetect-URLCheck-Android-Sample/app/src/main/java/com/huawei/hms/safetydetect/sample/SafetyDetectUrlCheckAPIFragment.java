@@ -49,7 +49,7 @@ public class SafetyDetectUrlCheckAPIFragment extends Fragment
 
     public static final String TAG = SafetyDetectUrlCheckAPIFragment.class.getSimpleName();
 
-    private static final String APP_ID = "101324691";
+    private static final String APP_ID = "******";
 
     private SafetyDetectClient client;
 
