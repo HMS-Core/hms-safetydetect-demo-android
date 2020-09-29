@@ -52,7 +52,7 @@ import java.util.concurrent.ExecutionException;
 public class SafetyDetectUserDetectAPIFragment extends Fragment implements View.OnClickListener {
     public static final String TAG = SafetyDetectUserDetectAPIFragment.class.getSimpleName();
 
-    private static final int APP_ID = 101324691;
+    private static final int APP_ID = ******;
 
     private SafetyDetectClient client;
 
