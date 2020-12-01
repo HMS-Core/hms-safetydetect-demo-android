@@ -10,10 +10,10 @@ English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-android/blo
 ## Introduction
 
 This project contains SafetyDetect APIs and apps developed based on the SafetyDetect SDK. The project directory is as follows:
-1. [SafetyDetect-SysIntegrity-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-SysIntegrity-Android-Sample): Provides examples of using basic functions of SafetyDetect SysIntegrity.
+1. [SafetyDetect-SysIntegrity-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-SysIntegrity-Sample): Provides examples of using basic functions of SafetyDetect SysIntegrity.
 2. [SafetyDetect-AppsCheck-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-AppsCheck-Android-Sample): Provides examples of using basic functions of SafetyDetect AppsCheck.
 3. [SafetyDetect-URLCheck-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-URLCheck-Android-Sample): Provides examples of using basic functions of SafetyDetect URLCheck.
-4. [SafetyDetect-UserDetect-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-UserDetect-Android-Sample): Provides examples of using basic functions of SafetyDetect UserDetect.
+4. [SafetyDetect-UserDetect-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-UserDetect-Sample): Provides examples of using basic functions of SafetyDetect UserDetect.
 5. [SafetyDetect-WifiDetect-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/SafetyDetect-WifiDetect-Android-Sample): Provides examples of using basic functions of SafetyDetect WifiDetect.
 6. [Safetydetect-Android-Sample](https://github.com/HMS-Core/hms-safetydetect-demo-android/tree/master/safetydetect-android-sample): Provides examples of using basic functions of SafetyDetect.
 
