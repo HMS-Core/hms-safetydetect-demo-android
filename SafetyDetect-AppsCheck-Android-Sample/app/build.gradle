@@ -51,6 +51,6 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    // For details about the version, see https://Developer.huawei.com/consumer/cn/doc/Development/Security-Guides/version-change-history-0000001050156329.
+    // For details about the version, see https://developer.huawei.com/consumer/cn/doc/development/Security-Guides/version-change-history-0000001050156329.
     implementation 'com.huawei.hms:safetydetect:xxx'
 }
