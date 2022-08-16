@@ -30,6 +30,7 @@ import android.widget.Toast;
 import com.huawei.hmf.tasks.OnFailureListener;
 import com.huawei.hmf.tasks.OnSuccessListener;
 import com.huawei.hms.common.ApiException;
+import com.huawei.hms.support.api.entity.safetydetect.SysIntegrityRequest;
 import com.huawei.hms.support.api.entity.safetydetect.SysIntegrityResp;
 import com.huawei.hms.support.api.safetydetect.SafetyDetect;
 import com.huawei.hms.support.api.safetydetect.SafetyDetectStatusCodes;
@@ -96,8 +97,12 @@ public class SafetyDetectSysIntegrityAPIFragment extends Fragment implements Vie
             Log.e(TAG, e.getMessage());
         }
         // TODO(developer): Change your app ID. You can obtain your app ID in AppGallery Connect.
+        SysIntegrityRequest sysintegrityrequest = new SysIntegrityRequest();
+        sysintegrityrequest.setAppId(APP_ID);
+        sysintegrityrequest.setNonce(nonce);
+        sysintegrityrequest.setAlg("PS256");
         SafetyDetect.getClient(getActivity())
-                .sysIntegrity(nonce, APP_ID)
+                .sysIntegrity(sysintegrityrequest)
                 .addOnSuccessListener(new OnSuccessListener<SysIntegrityResp>() {
                     @Override
                     public void onSuccess(SysIntegrityResp response) {
