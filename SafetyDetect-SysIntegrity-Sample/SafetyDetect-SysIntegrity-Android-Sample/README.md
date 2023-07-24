@@ -1,5 +1,5 @@
 # SafetyDetect SysIntegrity Sample
-English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-android/blob/master/SafetyDetect-SysIntegrity-Sample/SafetyDetect-SysIntegrity-Android-Sample/README.md)
+English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-android/blob/master/SafetyDetect-SysIntegrity-Sample/SafetyDetect-SysIntegrity-Android-Sample/README_ZH.md)
 
 
 ## Table of Contents
