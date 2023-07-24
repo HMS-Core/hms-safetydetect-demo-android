@@ -1,6 +1,6 @@
 # SafetyDetect UserDetect Server Sample
 
-English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-UserDetect-Server-Sample/README_ZH.md)
+English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-UserDetect-Sample/SafetyDetect-UserDetect-Server-Sample/README_ZH.md)
 
 
 ## Table of Contents

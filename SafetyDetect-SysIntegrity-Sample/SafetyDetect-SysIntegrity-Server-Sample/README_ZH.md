@@ -1,6 +1,6 @@
 # SafetyDetect SysIntegrity Server Sample
 
-[English](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README.md) | 中文
+[English](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Sample/SafetyDetect-SysIntegrity-Server-Sample/README.md) | 中文
 
 ## 目录
 

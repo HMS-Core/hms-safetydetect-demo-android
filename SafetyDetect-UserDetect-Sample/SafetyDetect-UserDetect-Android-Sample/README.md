@@ -1,6 +1,6 @@
 # SafetyDetect UserDetect Sample
 
-English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-android/blob/master/SafetyDetect-UserDetect-Android-Sample/README_ZH.md)
+English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-android/blob/master/SafetyDetect-UserDetect-Sample/SafetyDetect-UserDetect-Android-Sample/README_ZH.md)
 
 ## Table of Contents
 
